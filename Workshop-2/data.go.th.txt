@@ -1,0 +1,9 @@
+ศูนย์กลางข้อมูลเปิดภาครัฐ (Open Government Data) 
+https://data.go.th
+
+
+จำนวนประชากรในประเทศไทย แยกตามพื้นที่ (องค์กร : กรมการปกครอง)
+
+https://data.go.th/dataset/statbyyear
+
+https://stat.bora.dopa.go.th/stat/statnew/statPMOC
