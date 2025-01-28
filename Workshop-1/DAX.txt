@@ -1,3 +1,5 @@
+Data Analysis Expressions (DAX) 
+
 SUM_SCORE
 SUM_SCORE = Table[A1] + Table[A2] + Table[A3] + Table[A4] + Table[A5]
 
@@ -9,3 +11,10 @@ SWITCH(TRUE(),
     'Table'[A2] >= 60, "D",
     'Table'[A2] < 60, "F"
 )
+
+
+
+## Reference
+- https://learn.microsoft.com/en-us/dax
+- https://dax.guide
+- https://www.tutorialspoint.com/dax_functions/index.htm
