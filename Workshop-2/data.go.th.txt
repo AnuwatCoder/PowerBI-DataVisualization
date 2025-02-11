@@ -7,3 +7,7 @@ https://data.go.th
 https://data.go.th/dataset/statbyyear
 
 https://stat.bora.dopa.go.th/stat/statnew/statPMOC
+
+
+ข้อมูลพิกัด LAT/LONG ที่บ่งชี้ชื่อตำบล อำเภอ จังหวัด
+https://data.go.th/dataset/item_c6d42e1b-3219-47e1-b6b7-dfe914f27910
